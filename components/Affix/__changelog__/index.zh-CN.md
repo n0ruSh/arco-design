@@ -1,3 +1,11 @@
+## 2.23.5
+
+2021-10-29
+
+### 🆕 功能升级
+
+- Affix feature([#1](https://github.com/n0ruSh/arco-design/pull/1))
+
 ## 2.20.2
 
 2021-08-09

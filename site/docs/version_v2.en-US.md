@@ -2,6 +2,14 @@
 changelog: true
 ---
 
+## 2.23.5
+
+2021-10-29
+
+### 🆕 Feature
+
+- Affix 功能([#1](https://github.com/n0ruSh/arco-design/pull/1))
+
 ## 2.23.4
 
 2021-10-26

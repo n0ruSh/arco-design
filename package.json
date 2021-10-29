@@ -1,5 +1,5 @@
 {
-  "name": "@arco-design/web-react",
+  "name": "@arco-design/arco-actions-test",
   "version": "2.23.4",
   "description": "Arco Design React UI Library.",
   "module": "./es/index.js",
@@ -51,7 +51,7 @@
     "react-dom": ">=16"
   },
   "devDependencies": {
-    "@arco-design/arco-components": "^1.13.0",
+    "@arco-design/arco-doc-site-components": "^1.13.0",
     "@arco-design/arco-scripts": "^1.25.0",
     "@storybook/addon-actions": "^6.1.11",
     "@storybook/addon-essentials": "^6.1.11",
